@@ -40,3 +40,4 @@ Here are some project ideas focused on addressing common pain points for traders
    - Pain Point: Many retail traders lack access to robust tools for backtesting and simulating trading strategies.
    - Idea: Develop a backtesting tool that allows users to test their strategies against historical data from Dhan. The platform could also support strategy simulation in different market conditions and visualize performance metrics, making it easier for traders to refine their approaches.
 
+11. An AI agent which takes financial data of all the listed stock, trains on it and provides an intuitive way for an end user to interact with it  
